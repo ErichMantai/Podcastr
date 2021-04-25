@@ -1,0 +1,2 @@
+aula 1 = #missaoespacial
+aula 2 = #embuscadoproximonivel
